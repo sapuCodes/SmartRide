@@ -1,4 +1,5 @@
 # SmartRide
+<<<<<<< HEAD
 
 A clean architecture Flutter mobile application.
 
@@ -41,3 +42,6 @@ The app uses Material Design 3 with custom theme configuration in `lib/config/th
 - Light theme for light mode
 - Dark theme for dark mode
 - System theme mode detection
+=======
+Intelligent Vehicle Companion for  Fuel, Trips, and Efficiency 
+>>>>>>> b8d5704f46ff207e1ecf167bf1df07eb13554358
