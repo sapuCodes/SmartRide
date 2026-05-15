@@ -1,0 +1,11 @@
+<svg width="100" height="60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Car body -->
+  <rect x="10" y="30" width="80" height="20" fill="#007bff" rx="5"/>
+  <!-- Car roof -->
+  <rect x="20" y="20" width="60" height="15" fill="#007bff" rx="5"/>
+  <!-- Wheels -->
+  <circle cx="25" cy="50" r="8" fill="#333"/>
+  <circle cx="75" cy="50" r="8" fill="#333"/>
+  <!-- Windows -->
+  <rect x="25" y="25" width="50" height="8" fill="#87ceeb" rx="2"/>
+</svg>

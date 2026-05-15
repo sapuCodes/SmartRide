@@ -1,0 +1,7 @@
+/// Models folder
+/// 
+/// This folder contains data models and entity classes.
+/// Use clean architecture principles:
+/// - Define models for data objects
+/// - Separate concerns (API models, domain models, etc.)
+/// - Keep models independent from business logic

@@ -1,0 +1,9 @@
+/// Services folder
+/// 
+/// This folder contains business logic and external service integrations.
+/// Examples:
+/// - API clients
+/// - Authentication services
+/// - Database services
+/// - Location services
+/// - Payment services
