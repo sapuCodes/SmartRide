@@ -5,7 +5,7 @@ SmartRide is a feature-rich mobile vehicle telematics, trip tracking, and fuel e
 ![SmartRide README Poster](smartRideposter2.jpg)
 ---
 
-## ✨ Key Features
+## ✨ Key Features:
 
 * **🗺️ Real-Time Trip Tracking:** Integrated with the Google Maps SDK to accurately record routes, calculate travel distance, and map paths in real-time.
 * **⛽ Fuel Efficiency Management:** Log fuel fill-ups, calculate mileage efficiency (cost per distance/fuel consumption rates), and monitor overall spending.
