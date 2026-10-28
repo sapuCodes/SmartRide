@@ -77,7 +77,7 @@ lib/
    flutter run
    ```
 
-## Theme Configuration
+## Theme Configuration:
 
 The app uses Material Design 3 with custom theme configuration in `lib/config/theme.dart`.
 
