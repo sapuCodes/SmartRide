@@ -2,6 +2,7 @@
 
 SmartRide is a feature-rich mobile vehicle telematics, trip tracking, and fuel efficiency management application built with **Flutter**. Designed to help drivers effortlessly monitor their journeys, optimize fuel consumption, and analyze driving metrics in real-time.
 
+![SmartRide README Poster](poster.png)
 ---
 
 ## ✨ Key Features
